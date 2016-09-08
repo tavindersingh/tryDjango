@@ -1,0 +1,588 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"register_page	function"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"Re",
+				"RequestContext"
+			],
+			[
+				"for",
+				"form	statement"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect	class"
+			],
+			[
+				"crea",
+				"create_user	function"
+			],
+			[
+				"form",
+				"forms	module"
+			],
+			[
+				"u",
+				"User	class"
+			],
+			[
+				"User",
+				"Username"
+			],
+			[
+				"no",
+				"not	keyword"
+			],
+			[
+				"co",
+				"core	module"
+			],
+			[
+				"a",
+				"auth	module"
+			],
+			[
+				"pass",
+				"password2	statement"
+			],
+			[
+				"pa",
+				"password2	statement"
+			],
+			[
+				"sl",
+				"self	param"
+			],
+			[
+				"e",
+				"EmailField	class"
+			],
+			[
+				"ma",
+				"max_length	None"
+			],
+			[
+				"cha",
+				"CharField	class"
+			],
+			[
+				"user",
+				"user_page"
+			],
+			[
+				"lo",
+				"logout	function"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect	class"
+			],
+			[
+				"bookma",
+				"bookmarks"
+			],
+			[
+				"boo",
+				"bookmarks"
+			],
+			[
+				"r",
+				"raise	keyword"
+			],
+			[
+				"render",
+				"render_to_response	function"
+			],
+			[
+				"con",
+				"context_processors"
+			],
+			[
+				"i",
+				"input	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"o",
+				"objects	statement"
+			],
+			[
+				"m",
+				"models	module"
+			],
+			[
+				"get",
+				"get_template	function"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"in",
+				"include	function"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"fig",
+				"figcaption	Tag"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"au",
+				"autofocus	Attr"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin-l",
+				"margin-left"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"s",
+				"sidebar"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"navi",
+				"navigation"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"my",
+				"mysql_close"
+			],
+			[
+				"Co",
+				"CoffeeEntity"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"whl",
+				"while	while …"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"p",
+				"price"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"date_de",
+				"date_default_timezone_set"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch"
+			],
+			[
+				"c",
+				"con	function __construct"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"num",
+				"number	keyword"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"f",
+				"firstName"
+			],
+			[
+				"fun",
+				"func	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/H/html5 games/PhaserAndTypeScript/ExtremeWalkingEmulator"
+	],
+	"file_history":
+	[
+		"/F/programs/DjangoTutorial/bookmarks/bookmark/forms.py",
+		"/F/programs/DjangoTutorial/bookmarks/bookmark/views.py",
+		"/F/programs/DjangoTutorial/bookmarks/bookmark/templates/registration/register.html",
+		"/F/programs/DjangoTutorial/bookmarks/bookmark/templates/registration/login.html",
+		"/F/programs/DjangoTutorial/bookmarks/bookmark/urls.py",
+		"/F/programs/DjangoTutorial/bookmarks/bookmark/site_media/style.css",
+		"/C/Users/TAVINDER/Downloads/jquery-1.12.3.js",
+		"/F/programs/DjangoTutorial/bookmarks/bookmark/templates/base.html",
+		"/F/programs/DjangoTutorial/bookmarks/bookmark/templates/user_page.html",
+		"/F/programs/DjangoTutorial/bookmarks/bookmark/templates/main_page.html",
+		"/F/programs/DjangoTutorial/bookmarks/bookmarks/settings.py",
+		"/F/programs/DjangoTutorial/bookmarks/bookmarks/urls.py",
+		"/F/programs/DjangoTutorial/website/music/urls.py",
+		"/F/programs/DjangoTutorial/website/music/views.py",
+		"/F/programs/DjangoTutorial/bookmarks/bookmark/models.py",
+		"/F/programs/DjangoTutorial/website/website/settings.py",
+		"/F/programs/DjangoTutorial/bookmarks/bookmark/apps.py",
+		"/F/programs/DjangoTutorial/mysite/webapp/urls.py",
+		"/F/programs/DjangoTutorial/mysite/webapp/models.py",
+		"/F/programs/DjangoTutorial/mysite/mysite/urls.py",
+		"/F/programs/DjangoTutorial/mysite/webapp/views.py",
+		"/F/programs/DjangoTutorial/mysite/mysite/settings.py",
+		"/C/xampp/htdocs/favmovie/index.html",
+		"/C/xampp/htdocs/favmovie/css/style.css",
+		"/C/xampp/htdocs/favmovie/css/reset.css",
+		"/C/xampp/htdocs/favmovie/admin.html",
+		"/C/xampp/htdocs/favmovie/movie-single.html",
+		"/C/xampp/htdocs/example.php",
+		"/C/xampp/htdocs/tavindersingh/styles/stylesheet.css",
+		"/C/xampp/htdocs/tavindersingh/index.php",
+		"/C/xampp/htdocs/HTML5Form.php",
+		"/C/xampp/htdocs/popup.html",
+		"/C/xampp/htdocs/exampleStyle.css",
+		"/C/xampp/htdocs/mysite/Home.php",
+		"/C/xampp/htdocs/CoffeeWebsite/styles/stylesheet.css",
+		"/C/xampp/htdocs/CoffeeWebsite/index.php",
+		"/C/xampp/htdocs/CoffeeWebsite/Template.php",
+		"/C/xampp/htdocs/CoffeeWebsite/controller/CoffeeController.php",
+		"/C/xampp/htdocs/CoffeeWebsite/entities/CoffeeEntity.php",
+		"/C/xampp/htdocs/CoffeeWebsite/Model/Credentials.php",
+		"/C/xampp/htdocs/CoffeeWebsite/Model/CoffeeModel.php",
+		"/C/xampp/htdocs/shoutIt/database.php",
+		"/C/xampp/htdocs/shoutIt/css/style.css",
+		"/C/xampp/htdocs/shoutIt/index.php",
+		"/C/xampp/htdocs/shoutIt/process.php",
+		"/C/xampp/htdocs/form.php",
+		"/C/xampp/htdocs/result.php",
+		"/E/wamp64/www/shoutIt/css/style.css",
+		"/E/wamp64/www/shoutIt/index.php",
+		"/E/wamp64/bin/apache/apache2.4.17/conf/httpd.conf",
+		"/E/wamp64/bin/mysql/mysql5.7.9/my.ini",
+		"/E/wamp64/www/my-site/list.php",
+		"/E/wamp64/www/my-site/helloWorld.php",
+		"/E/wamp64/logs/mysql.log",
+		"/H/HTML5 code/LinkDemo.html",
+		"/H/HTML5 code/ListDemo.html",
+		"/H/HTML5 code/ImageDemo.html",
+		"/H/HTML5 code/Basics.html",
+		"/C/Users/TAVINDER/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/TAVINDER/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/H/html5 games/PhaserAndTypeScript/ExtremeWalkingEmulator/index.html",
+		"/H/html5 games/PhaserAndTypeScript/ExtremeWalkingEmulator/app.ts",
+		"/H/html5 games/PhaserAndTypeScript/ExtremeWalkingEmulator/cxv.java",
+		"/C/Users/TAVINDER/AppData/Roaming/Sublime Text 3/Packages/User/index.html",
+		"/C/Users/TAVINDER/AppData/Roaming/Sublime Text 3/Packages/User/first.ts"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#e3e3e3",
+			"3306"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#E3E3E3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+	"project": "tryDjango.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 66.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
